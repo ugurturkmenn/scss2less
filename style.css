@@ -1,0 +1,30 @@
+body, html {
+  margin: 0;
+}
+
+.converter-wrapper{
+  display: flex;
+  justify-content: space-around;
+  box-sizing: border-box;
+}
+
+textarea{
+  width: 50%;
+  height: 100vh;
+  font-size: 15px;
+  resize: none;
+  padding: 5px;
+}
+
+.scss {
+  position: relative;
+  background: #e2e2e2;
+  color: #333;
+  border: none;
+}
+
+.less {
+  position: relative;
+  color: #333;
+  border: none;
+}

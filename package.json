@@ -1,0 +1,19 @@
+{
+  "name": "scss2less",
+  "version": "1.0.0",
+  "description": "Basic SCSS to LESS Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugurturkmenn/scss2less.git"
+  },
+  "author": "Ugur Turkmen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugurturkmenn/scss2less/issues"
+  },
+  "homepage": "https://github.com/ugurturkmenn/scss2less#readme"
+}
